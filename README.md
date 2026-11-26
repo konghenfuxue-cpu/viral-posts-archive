@@ -2,7 +2,7 @@
 
 [查看更新日志](stories/更新日志.md)
 
-**2026-11-23 更新：新增第 70–71 篇，下载格式见目录。**
+**2026-11-26 更新：新增第 72–74 篇，下载格式见目录。**
 
 [在线阅读样稿：《暗恋两年的高中同学 决定拿下》](stories/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB/%E6%9A%97%E6%81%8B%E4%B8%A4%E5%B9%B4%E7%9A%84%E9%AB%98%E4%B8%AD%E5%90%8C%E5%AD%A6%20%E5%86%B3%E5%AE%9A%E6%8B%BF%E4%B8%8B.md)
 
@@ -10,11 +10,11 @@
 
 **把原稿传下去。**
 
-这里收录 71 篇贴吧长帖，各篇下载格式见目录。目录保留原帖链接，补录和修订可在完整更新日志中查阅。
+这里收录 74 篇贴吧长帖，各篇下载格式见目录。目录保留原帖链接，补录和修订可在完整更新日志中查阅。
 
 如果你手上有原帖、补档或缺页线索，欢迎在 [Issues](https://github.com/konghenfuxue-cpu/viral-posts-archive/issues) 留下帖子链接和楼层号。
 
-**[直接查看 71 篇下载表](#合集下载)** · [独立目录](stories/README.md) · [贴吧长帖采集插件](tools/singlefile-tieba/README.md)
+**[直接查看 74 篇下载表](#合集下载)** · [独立目录](stories/README.md) · [贴吧长帖采集插件](tools/singlefile-tieba/README.md)
 
 ## 麦穗与羊
 
@@ -115,6 +115,9 @@
 | 69 | [我一个混混，偏偏会爱上最干净的女孩](https://tieba.baidu.com/p/6200563686) | [含图 92 页](stories/%E6%88%91%E4%B8%80%E4%B8%AA%E6%B7%B7%E6%B7%B7%EF%BC%8C%E5%81%8F%E5%81%8F%E4%BC%9A%E7%88%B1%E4%B8%8A%E6%9C%80%E5%B9%B2%E5%87%80%E7%9A%84%E5%A5%B3%E5%AD%A9.pdf) | 暂停 | 暂停 |
 | 70 | [回忆我记忆中的青梅竹马](https://tieba.baidu.com/p/9550446602) | [含图 16 页](stories/%E5%9B%9E%E5%BF%86%E6%88%91%E8%AE%B0%E5%BF%86%E4%B8%AD%E7%9A%84%E9%9D%92%E6%A2%85%E7%AB%B9%E9%A9%AC.pdf) | 暂停 | 暂停 |
 | 71 | [又到了下雪的季节了](https://tieba.baidu.com/p/9328582655) | [含图 36 页](stories/%E5%8F%88%E5%88%B0%E4%BA%86%E4%B8%8B%E9%9B%AA%E7%9A%84%E5%AD%A3%E8%8A%82%E4%BA%86.pdf) | 暂停 | 暂停 |
+| 72 | [朋友们 孙吧11级的女朋友去世了](https://tieba.baidu.com/p/9404503588) | [含图 26 页](stories/%E6%9C%8B%E5%8F%8B%E4%BB%AC%20%E5%AD%99%E5%90%A711%E7%BA%A7%E7%9A%84%E5%A5%B3%E6%9C%8B%E5%8F%8B%E5%8E%BB%E4%B8%96%E4%BA%86.pdf) | 暂停 | 暂停 |
+| 73 | [进来听听鼠鼠和初恋的爱情故事](https://tieba.baidu.com/p/9980821818) | [含图 8 页](stories/%E8%BF%9B%E6%9D%A5%E5%90%AC%E5%90%AC%E9%BC%A0%E9%BC%A0%E5%92%8C%E5%88%9D%E6%81%8B%E7%9A%84%E7%88%B1%E6%83%85%E6%95%85%E4%BA%8B.pdf) | 暂停 | 暂停 |
+| 74 | [回忆一下鼠鼠和天龙姑娘的恋爱史](https://tieba.baidu.com/p/8849508056) | [含图 57 页](stories/%E5%9B%9E%E5%BF%86%E4%B8%80%E4%B8%8B%E9%BC%A0%E9%BC%A0%E5%92%8C%E5%A4%A9%E9%BE%99%E5%A7%91%E5%A8%98%E7%9A%84%E6%81%8B%E7%88%B1%E5%8F%B2.pdf) | 暂停 | 暂停 |
 
 ## 合集网盘备份
 
